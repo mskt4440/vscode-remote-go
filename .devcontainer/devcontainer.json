@@ -1,0 +1,12 @@
+{
+    "name": "go",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "ash",
+        "go.gopath": "/go"
+    },
+    "extensions": [
+        "golang.Go"
+    ]
+}
